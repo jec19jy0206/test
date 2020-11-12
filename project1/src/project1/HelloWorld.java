@@ -6,5 +6,8 @@ public class HelloWorld {
 	System.out.println("Java");
 	System.out.println("html");
 	System.out.println("scrip");
+	System.out.println("scrip");
+	System.out.println("scrip");
+
 	}
 }
